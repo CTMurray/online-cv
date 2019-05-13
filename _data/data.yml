@@ -15,6 +15,10 @@ sidebar:
     email: camaalmurray@gmail.com
     phone: 616 566 8521
     website: blog.webjeda.com #do not add http://
+    
+    languages:
+      - idiom: English
+        level: Native
    
 career-profile:
     title: Career Profile
