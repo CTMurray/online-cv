@@ -13,7 +13,7 @@ sidebar:
     # Sidebar links
     email: camaalmurray@gmail.com
     phone: 616 566 8521
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
     #github: sharu725
     #gitlab:
@@ -37,7 +37,7 @@ career-profile:
 
 education:
     - degree: Seeking Bachelors of Science in Computer Science
-      university: Grand Valley University
+      university: Grand Valley State University
       
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
